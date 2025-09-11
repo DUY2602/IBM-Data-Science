@@ -1,0 +1,59 @@
+1. What is Data Science ?
+=> Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, 
+and systems to extract knowledge and insights from structured and unstructured data.
+
+2. Fundamentals of Data Science:
+    - The Core Skills:
+        + Math and Statistics: This is the theoretical foundation. You need a solid understanding of probability, 
+        statistical analysis, and linear algebra to interpret data and build models correctly.
+
+        + Computer Science and Programming: This is the practical application. Proficiency in languages like Python
+         or R is essential for manipulating data, running analyses, and developing machine learning algorithms. 
+         SQL is also crucial for working with databases.
+
+        + Domain Expertise: You must understand the specific industry or business you're working in.
+         This allows you to ask the right questions, interpret your findings in the correct context, and translate 
+         data insights into meaningful business value.
+
+        + Communication: The ability to present complex findings to non-technical stakeholders is vital. 
+        This includes data visualization and telling a compelling story with your data.
+
+
+
+
+
+    - The Data Science Process (or Lifecycle):
+
+        + Problem Formulation: Clearly define the business problem you are trying to solve.
+
+        + Data Collection and Preparation: Gather data from various sources and then clean, transform, and 
+        prepare it for analysis. This is often the most time-consuming part of the job.
+
+        + Exploratory Data Analysis (EDA): Use visualizations and statistical summaries to explore the data and 
+        uncover initial patterns and relationships.
+
+        + Modeling: Apply machine learning algorithms or statistical models to make predictions or find insights.
+
+        + Evaluation and Deployment: Test your model's performance and, if it's successful, integrate it 
+        into a real-world application.
+
+        + Communication: Present your findings and their implications to decision-makers in a clear and 
+        understandable way.
+
+
+
+
+
+    - Core Concepts and Techniques:
+
+        + Data Wrangling: The process of cleaning and transforming raw data into a usable format.
+
+        + Machine Learning: A subset of AI that involves training models on data to enable them to make predictions
+         or decisions without being explicitly programmed.
+
+        + Data Visualization: The use of charts, graphs, and maps to represent data, making complex information 
+        more accessible and understandable.
+
+        + Predictive Analytics: The use of statistical and machine learning techniques to forecast future outcomes.
+
+

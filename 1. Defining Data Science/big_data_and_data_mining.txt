@@ -1,0 +1,91 @@
+- Analytics: The process of examining data to draw conclusions and make informed decisions; involves statistical 
+analysis and data-driven insights.
+
+- Big Data: Vast amounts of structured, semi-structured, and unstructured data characterized by volume, velocity, 
+variety, veracity, and value.
+
+- Big Data Cluster: A distributed computing environment of thousands of interconnected computers that collectively 
+store and process large datasets.
+
+- Broad Network Access: The ability to access cloud resources via standard mechanisms and platforms 
+(mobile, laptops, workstations) over networks.
+
+- Chief Data Officer (CDO): Role responsible for overseeing data initiatives, governance, and strategy, ensuring 
+data supports digital transformation.
+
+- Chief Information Officer (CIO): Executive responsible for managing IT and computer systems, contributing to 
+technology aspects of digital transformation.
+
+- Cloud Computing: Delivery of on-demand computing resources (networks, servers, storage, apps, services) over the 
+Internet on a pay-per-use basis.
+
+- Cloud Deployment Models: Categories defining where cloud infrastructure resides, who manages it, and how 
+it’s made available (public, private, hybrid).
+
+- Cloud Service Models: Layers of cloud offerings: IaaS, PaaS, SaaS, representing different computing service levels
+
+- Commodity Hardware: Standard off-the-shelf components used in big data clusters; cost-effective alternative to 
+specialized hardware.
+
+- Data Algorithms: Computational models used to process and analyze data efficiently on large cloud datasets.
+
+- Data Replication: Duplicating data across cluster nodes to ensure durability and availability, reducing loss risk.
+
+- Data Science: Interdisciplinary field extracting insights from data using programming, statistics, 
+and analytical tools.
+
+- Deep Learning: Subset of ML using artificial neural networks to learn patterns and make complex decisions from data.
+
+- Digital Change: Integration of digital technology into processes, improving and innovating operations and 
+customer value delivery.
+
+- Digital Transformation: Strategic/cultural change driven by data and Big Data to integrate digital technology 
+across organizations.
+
+- Distributed Data: Dividing data into chunks across multiple cluster computers to enable parallel processing.
+
+- Hadoop: Distributed storage & processing framework for handling large datasets, suited for big data analytics.
+
+- HDFS (Hadoop Distributed File System): Storage system that partitions and distributes files across cluster nodes, 
+enabling parallel access and fault tolerance.
+
+- Infrastructure as a Service (IaaS): Cloud model giving access to infrastructure (servers, storage, networking) 
+without user management.
+
+- Java-Based Framework: Hadoop is implemented in Java, providing the foundation for distributed processing solutions.
+
+- Map Process: First step in Hadoop’s MapReduce model where data is processed in parallel on cluster nodes.
+
+- Measured Service: Users are billed for cloud resources based on actual usage; usage is monitored, measured, reported.
+
+- On-Demand Self-Service: Users provision cloud resources (compute, storage, networking) through interfaces without 
+provider interaction.
+
+- Rapid Elasticity: Ability to scale cloud resources up/down quickly based on demand.
+
+- Reduce Process: Second step in Hadoop’s MapReduce model where mapped results are aggregated into final output.
+
+- Replication: Creating copies of data within a cluster to ensure availability and fault tolerance.
+
+- Resource Pooling: Cloud resources are shared across multiple consumers, dynamically allocated for efficiency.
+
+- Skills Network Labs (SN Labs): IBM-provided learning tools (Jupyter, Spark clusters, etc.) for data science 
+projects and skill development.
+
+- Spilling to Disk: Technique where data is temporarily written to disk when memory is insufficient, ensuring 
+processing continuity.
+
+- STEM Classes: Science, Technology, Engineering, Math courses preparing students for careers like data science.
+
+- Variety: Diversity of data types (structured, unstructured: text, images, video, etc.) posing management challenges.
+
+- Velocity: The speed at which data is generated, often real-time, requiring fast processing.
+
+- Veracity: Quality/accuracy of data ensuring consistency, completeness, and reliability.
+
+- Video Tracking System: Captures/analyzes video data from games to assess player movements and dynamics for sports 
+decision-making.
+
+- Volume: Scale of data generated and stored, driven by sources, sensors, and scalable infrastructure.
+
+- V’s of Big Data: The 5Vs (Velocity, Volume, Variety, Veracity, Value) describing Big Data characteristics.

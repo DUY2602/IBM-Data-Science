@@ -1,0 +1,7 @@
+| File Type | Structure     | Best For                        | Pros                                     | Cons                                |
+| --------- | ------------- | ------------------------------- | ---------------------------------------- | ----------------------------------- |
+| **CSV**   | Flat table    | Simple tabular data             | Lightweight, universal, fast I/O         | No hierarchy, no metadata           |
+| **XLSX**  | Sheets        | Business/analysis workflows     | Rich features (charts, formulas, etc.)   | Heavy, slower with large datasets   |
+| **XML**   | Tree (tags)   | Complex, metadata-rich data     | Flexible, supports schema validation     | Verbose, larger file size           |
+| **JSON**  | Tree (KV)     | APIs, nested data structures    | Lightweight, human-readable, widely used | Not efficient for huge tabular data |
+| **SQL**   | Relational DB | Large-scale structured datasets | Efficient querying, joins, transactions  | Needs DB engine, less portable      |
