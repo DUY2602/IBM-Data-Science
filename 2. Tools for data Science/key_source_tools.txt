@@ -1,0 +1,101 @@
+Data Management Tools:
+
+    + MySQL: Popular open-source relational database (RDBMS) using SQL. Commonly used in web apps, data warehousing, and e-commerce.
+
+    + PostgreSQL: Powerful open-source RDBMS with extensibility, SQL compliance, supports JSON, full-text search, and spatial data.
+
+    + Apache CouchDB: Document-oriented NoSQL database storing data in JSON; highly scalable, fault-tolerant, and easy to use.
+
+    + MongoDB: Document-oriented NoSQL database storing flexible JSON; scalable, high availability, suitable for modern web apps.
+
+    + Apache Cassandra: Highly scalable distributed NoSQL database; handles structured/unstructured data, high availability, fault-tolerant.
+
+    + Hadoop Distributed File System (HDFS): Storage for large datasets; splits files into blocks, replicates across nodes; scalable and fault-tolerant.
+
+    + Ceph: Software-defined storage platform for hybrid clouds; unified object, block, and file storage; high performance and reliability.
+
+    + Elasticsearch: Distributed RESTful search engine and analytics tool; supports full-text search, real-time analytics, highly scalable.
+
+
+
+
+Data Integration and Transformation Tools
+
+    + Apache Airflow: Open-source workflow scheduler; defines complex workflows with task dependencies, parallelism, and error handling.
+
+    + Kubeflow: ML toolkit on Kubernetes; supports distributed training, model serving, hyperparameter tuning, end-to-end ML workflows.
+
+    + Apache Kafka: Distributed streaming platform for publishing, processing, and subscribing to real-time data streams.
+
+    + Apache NiFi: Data integration platform with web-based UI for routing, transforming, and enriching data flows.
+
+    + Apache Spark SQL: Module in Spark for structured data using SQL, data frames, datasets; optimized performance for complex processing.
+
+    + Node-RED: Visual programming tool for wiring devices, APIs, and services; supports data transformation, filtering, aggregation.
+
+
+
+
+Data Visualization Tools:
+
+    + PixieDust: Python/Jupyter library for interactive data visualizations; supports customization and third-party extensions.
+
+    + Hue: Web interface for analyzing/visualizing Hadoop datasets; create visualizations from SQL queries without programming.
+
+    + Kibana: Visualize Elasticsearch data; supports real-time dashboards and analytics.
+
+    + Apache Superset: Enterprise-ready BI web app; offers charts, tables, maps, geospatial analysis, real-time processing.
+
+    + Model Deployment Tools
+
+    + Apache PredictionIO: ML server for building, evaluating, deploying predictive engines (recommendation, classification, clustering).
+
+Kubernetes: Container orchestration platform; auto-scaling, self-healing, load balancing, multi-host management.
+
+Apache Seldon: Deploy/manage ML models on Kubernetes; automate workflows, monitor performance in real-time.
+
+MLeap: Library for serializing/deserializing ML models across platforms (Spark, scikit-learn, TensorFlow) in production.
+
+TensorFlow Lite: Run ML models on mobile/embedded devices; supports CPUs, GPUs, ASICs.
+
+Red Hat OpenShift: Kubernetes-based container framework; automates deployment, scaling, and management of apps.
+
+TensorFlow Serving: Serve ML models in production; HTTP/gRPC interfaces, scalable, low latency.
+
+TensorFlow.js: Train/deploy ML models in browser or Node.js; supports various architectures (NN, decision trees, kNN).
+
+Model Monitoring and Assessment Tools
+
+ModelDB: Track/reproduce ML experiments, version models, and collaborate on experiments.
+
+Prometheus: Monitoring system collecting metrics in real-time; visualize and alert on system/app health.
+
+IBM AI Fairness 360: Toolkit to detect/mitigate bias in ML models; provides fairness metrics and algorithms.
+
+IBM AI Explainability 360: Toolkit for explaining ML model behavior; provides interpretability algorithms and visualizations.
+
+IBM Adversarial Robustness 360 Toolbox: Protect ML models from adversarial attacks; measure robustness and detect adversarial examples.
+
+Code Development and Execution Tools
+
+Jupyter IDE / JupyterLab / JupyterHub: Notebook environments for Python, R, Julia; support live code, visualizations, narrative text, enterprise features.
+
+RStudio: IDE for managing and executing R code; supports version control and project management.
+
+Microsoft Visual Studio: IDE for multiple languages (C, C++, C#, VB.NET, F#, JS, TS, HTML, CSS) with plugin support.
+
+PyCharm: IDE for Python; offers coding assistance, testing, web development, scientific development support.
+
+Spyder: Python IDE for scientists/engineers; editing, analysis, debugging, profiling, visualization.
+
+Anaconda Navigator: GUI to manage Python development environments and IDE integrations (VSCode, PyCharm, Spyder, etc.).
+
+Code Asset Management Tools
+
+Git: Version control system for tracking code changes and collaborative development.
+
+GitLab: Web-based Git repo manager; supports CI/CD, monitoring, DevOps workflows.
+
+GitHub: Web-based Git hosting; create/fork projects, track changes, manage issues, pull requests.
+
+Bitbucket: Git hosting with collaboration features, pull requests, code review, branch permissions.
