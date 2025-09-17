@@ -1,0 +1,20 @@
+2025-09-17 04:47:14 DODUCDUY CRITICAL Cannot fetch API
+2025-09-17 04:47:14 DODUCDUY INFO Connection timeout and expired
+2025-09-17 04:47:14 VPPHO FATAL Authentication not success
+2025-09-17 04:47:14 DODUCDUY CRITICAL Authentication not success
+2025-09-17 04:47:14 BINBEO WARNING Connection timeout and expired
+2025-09-17 04:47:14 DODUCDUY INFO Database sync failed
+2025-09-17 04:47:14 DODUCDUY WARNING Authentication not success
+2025-09-17 04:47:14 DAVE INFO Connection timeout and expired
+2025-09-17 04:47:14 DAVE WARNING Authentication not success
+2025-09-17 04:47:14 BINBEO ERROR Database sync failed
+2025-09-17 04:47:14 BINBEO INFO Authentication not success
+2025-09-17 04:47:14 VPPHO INFO New device login
+2025-09-17 04:47:14 DAVE ERROR Authentication not success
+2025-09-17 04:47:14 DAVE CRITICAL Connection timeout and expired
+2025-09-17 04:47:14 VPPHO CRITICAL Database sync failed
+2025-09-17 04:47:14 BINBEO INFO Authentication not success
+2025-09-17 04:47:14 DUYDO INFO New device login
+2025-09-17 04:47:14 VPPHO CRITICAL Cannot fetch API
+2025-09-17 04:47:14 DAVE WARNING New device login
+2025-09-17 04:47:14 BINBEO ERROR Database sync failed
