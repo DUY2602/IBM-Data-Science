@@ -1,6 +1,8 @@
+-- Create a database
 CREATE DATABASE IF NOT EXISTS Getting_Started_with_SQL;
 USE Getting_Started_with_SQL;
 
+-- Create a table named Languages
 CREATE TABLE Languages (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
@@ -9,6 +11,8 @@ CREATE TABLE Languages (
     designed_by VARCHAR(100)
 );
 
+-- Insert data to each field in the table
+-- Must be careful about the datatype for each field
 INSERT INTO Languages (name, type, first_appeared, designed_by) VALUES
 ('Python', 'Interpreted', 1991, 'Guido van Rossum'),
 ('Java', 'Compiled', 1995, 'James Gosling'),
