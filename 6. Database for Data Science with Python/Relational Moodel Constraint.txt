@@ -1,0 +1,30 @@
+- In any well-designed database, maintaining data integrity is essential to ensure the accuracy, consistency, and reliability of the stored information. This lab focuses on three key relational model constraints:
+
+
+
+- Entity Integrity: 
+	+ This constraint ensures that every table in a relational database has a primary key. 
+	+ A primary key uniquely identifies each row in the table. 
+	+ A primary key column(s):
+		. must not contain NULL values
+		. must be unique across all rows
+	+ This constraint guarantees that each record (or entity) in a table is distinct and identifiable, preventing duplication and missing identifiers.
+
+
+- Referential Integrity:
+	+ This constraint ensures that a foreign key in one table always refers to a valid primary key in another table. 
+	+ This maintains consistent and meaningful relationships between tables.
+	+ It enforces the logical link between related data in different tables, preventing the existence of invalid or "orphaned" references.
+
+
+
+
+- Domain Integrity: 
+	+ This constraint ensures that all values stored in a column fall within a defined domain. 
+	+ This includes rules about:
+		. Data type
+		. Format
+		. Allowed values
+		. Nullability
+	+ It helps ensure that data in a column is valid, logical, and consistent with its intended use.
+
